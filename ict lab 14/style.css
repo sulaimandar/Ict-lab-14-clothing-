@@ -1,0 +1,29 @@
+
+body { 
+  font-family: 'Poppins', sans-serif;
+    background-color: #ffe5d9 ;
+}
+.introduction{
+    padding-left: 60px;
+    font-family: 'Poppins', sans-serif;
+
+background:#fff5f0 ;
+}
+.shirts{
+       padding-left: 60px;
+    font-family: 'Poppins', sans-serif;
+
+    background-color:#fff5f0 ;
+}
+.shoes{
+       padding-left: 60px;
+    font-family: 'Poppins', sans-serif;
+
+    background-color:#fff5f0 ;
+}
+footer{
+    color: black;
+}
+.contactus{
+    color: black;
+}
